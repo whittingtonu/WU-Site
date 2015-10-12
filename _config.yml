@@ -1,6 +1,6 @@
 # Site settings
 description: Whittington U: Real World Training for Real Life Situations
-baseurl: "http://whittingtonu.github.io/WU-Site" # the subpath of your site, e.g. /blog
+baseurl: "/WU-Site" # the subpath of your site, e.g. /blog
 url: "http://whittingtonu.github.io/WU-Site" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
